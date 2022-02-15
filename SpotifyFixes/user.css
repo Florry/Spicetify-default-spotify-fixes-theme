@@ -10,8 +10,8 @@
 
 /* Like button */
 .main-addButton-button.main-trackList-rowHeartButton, .main-addButton-button.main-trackList-rowHeartButton {
-	position: absolute;
-	left: 48px;
+	position: absolute !important;
+	left: 48px !important;
 }
 
 /* Left sidebar */
@@ -20,18 +20,18 @@
 }
 
 nav.Root__nav-bar * {
-	font-size: 15px;
+	font-size: 15px !important;
 }
 
 /* Closed folder */
 .main-rootlist-expandArrow {
-	-webkit-transform: rotate(-90deg);
-	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg) !important;
+	transform: rotate(-90deg) !important;
 }
 
 .main-rootlist-expandArrow:hover {
-	-webkit-transform: rotate(-90deg);
-	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg) !important;
+	transform: rotate(-90deg) !important;
 }
 
 /* Open folder */
