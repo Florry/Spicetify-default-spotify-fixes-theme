@@ -3,7 +3,7 @@
 ![](img/screenshot.png)
 
 - Full width playlists
-- Heart icons to the right of song titles
+- Heart icons to the left of song titles
 
   ![](img/heart.png)
 
