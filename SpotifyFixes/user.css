@@ -46,5 +46,5 @@ nav.Root__nav-bar * {
 }
 
 .main-rootlist-rootlistItemLinkActive {
-    background: #050505;
+    background: #050505 !important;
 }
