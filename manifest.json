@@ -3,8 +3,8 @@
 	"description": "Full width playlists, heart icons to the right of song titles, bigger cover art (wider max width of playlist panel), fixed folder arrows and slight highlight for selected playlist.",
 	"preview": "img/heart.png",
 	"readme": "README.md",
-	"usercss": "spotifyFixes/user.css",
-	"schemes": "spotifyFixes/color.ini",
+	"usercss": "SpotifyFixes/user.css",
+	"schemes": "SpotifyFixes/color.ini",
 	"branch": "main",
 	"authors": [
 		{
