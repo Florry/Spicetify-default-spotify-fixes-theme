@@ -22,4 +22,7 @@
 - copy the SpotifyFixes folder to `.spicetify/Themes`
 - run `spicetify config current_theme SpotifyFixes`
 
-## or Install via [spicetify marketplace](https://github.com/CharlieS1103/spicetify-marketplace)
+## or Install via [spicetify marketplace](https://github.com/CharlieS1103/spicetify-marketplace) under the snippets section
+(wider max width of playlist panel not available (yet) as it's a very hacky fix)
+
+![](img/snippets.png)
